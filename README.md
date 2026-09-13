@@ -1,4 +1,11 @@
 ---
+title: "AI-Powered Student Data Cleaning & Normalization Workflow (n8n)"
+description: "An automated data pipeline built in n8n using OpenAI and JavaScript"
+tags:
+  - n8n
+  - openai
+  - automation
+---
 
 ## 🚀 How to Import & Run in n8n
 
@@ -16,12 +23,3 @@
 7. Open the Form Trigger URL to upload your raw CSV file and process your data!
 
 ---
-
-## 📄 License
-This project is open-source under the MIT License.
-"""
-
-with open("README.md", "w", encoding="utf-8") as f:
-    f.write(markdown_content)
-
-print("README.md generated successfully.")
